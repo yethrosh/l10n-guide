@@ -120,7 +120,9 @@ on the English name.
      - Українська
    * - Uyghur
      - ئۇيغۇرچە
-   * - Venda
+   * - Urdu
+     - اردو
+   * - Venda
      - Tshivenḓa
    * - Vietnamese
      - Tiếng Việt
